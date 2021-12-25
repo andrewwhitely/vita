@@ -13,7 +13,7 @@ export default function Home() {
         <h1 className="text-6xl font-bold">projects</h1>
         
         <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
-          <p className='text-xl'>none yet :/</p>
+          <p className='text-xl'>coming soon!</p>
         </div>
 
       </div>
