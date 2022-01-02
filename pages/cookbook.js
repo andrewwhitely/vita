@@ -2,7 +2,7 @@ import Footer from '../components/footer';
 import Head from 'next/head'
 
 function pick() {
-  let cookbooks = ['The Food Lab', 'Cravings, Hungry for More', 'Josh Weissman', 'Skinnytaste', 'FTD', 'HBH (Yellow)', 'HBH (Brown)', 'Matty (White)', 'Matty (Yellow)', 'Well Plated', 'Callie\'s'];
+  let cookbooks = ['The Food Lab', 'Cravings, Hungry for More', 'Josh Weissman', 'Skinnytaste', 'FTD', 'HBH (Yellow)', 'HBH (Brown)', 'Matty (White)', 'Matty (Yellow)', 'Well Plated'];
 
   let book = (cookbooks[Math.floor(Math.random() * cookbooks.length)]);
 
