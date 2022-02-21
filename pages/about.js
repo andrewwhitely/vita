@@ -13,7 +13,7 @@ export default function About() {
         <h1 className="text-6xl font-bold">about</h1>
 
         <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full space-y-4">
-          <p className='text-xl'>i'm andrew whitely - a fullstack software engineer currently working at <a className='text-purple-600 hover:text-purple-900 dark:text-purple-400' href='https://capitalone.com/' target='_blank' rel='noopener noreferrer'>Capital One</a> with a focus in web development. outside of work, i'm busy exploring blockchain and web3 technologies. i'm interested in continuing work in web development for personal and professional projects.</p>
+          <p className='text-xl'>i'm andrew whitely - a software engineer currently working at <a className='text-purple-600 hover:text-purple-900 dark:text-purple-400' href='https://firstfloor.app/' target='_blank' rel='noopener noreferrer'>FirstFloor Studios</a>.</p>
           <p className='text-xl'>you can view other things i've worked on under my <a className='text-purple-600 hover:text-purple-900 dark:text-purple-400' href='/projects'>projects</a> page.</p>
         </div>
 

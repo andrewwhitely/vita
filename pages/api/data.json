@@ -1,0 +1,1492 @@
+{
+  "data": [
+    {
+        "letter": "A",
+        "company_name": "Aclima",
+        "location": "San Francisco, CA",
+        "website": "aclima.io",
+        "url": "https://aclima.io",
+        "description": "Hyperlocal air quality data and insights to improve human and planetary health"
+    },
+    {
+        "letter": "A",
+        "company_name": "Airtable",
+        "location": "San Francisco, CA",
+        "website": "airtable.com",
+        "url": "https://airtable.com",
+        "description": "Collaborative database software"
+    },
+    {
+        "letter": "A",
+        "company_name": "Algolia",
+        "location": "San Francisco, CA",
+        "website": "algolia.com",
+        "url": "https://algolia.com",
+        "description": "Hosted search API"
+    },
+    {
+        "letter": "A",
+        "company_name": "Amplitude",
+        "location": "San Francisco, CA",
+        "website": "amplitude.com",
+        "url": "https://amplitude.com",
+        "description": "Product analytics to help companies understand user behavior"
+    },
+    {
+        "letter": "A",
+        "company_name": "Andela",
+        "location": "New York, NY",
+        "website": "andela.com",
+        "url": "https://andela.com",
+        "description": "Distributed software engineers"
+    },
+    {
+        "letter": "A",
+        "company_name": "Anduril",
+        "location": "Irvine, CA",
+        "website": "anduril.com",
+        "url": "https://anduril.com",
+        "description": "Technology for military agencies and border surveillance"
+    },
+    {
+        "letter": "A",
+        "company_name": "App Annie",
+        "location": "San Francisco, CA",
+        "website": "appannie.com",
+        "url": "https://appannie.com",
+        "description": "Business intelligence solutions"
+    },
+    {
+        "letter": "A",
+        "company_name": "AppZen",
+        "location": "San Jose, CA",
+        "website": "appzen.com",
+        "url": "https://appzen.com",
+        "description": "AI platform for finance teams"
+    },
+    {
+        "letter": "A",
+        "company_name": "Arctic Wolf",
+        "location": "Eden Prairie, MN",
+        "website": "arcticwolf.com",
+        "url": "https://arcticwolf.com",
+        "description": "Managed firebreak detection & response security service"
+    },
+    {
+        "letter": "A",
+        "company_name": "Attentive",
+        "location": "New York, NY",
+        "website": "attentivemobile.com",
+        "url": "https://attentivemobile.com",
+        "description": "Personalized mobile messaging platform for innovative brands and organizations"
+    },
+    {
+        "letter": "A",
+        "company_name": "Auth0",
+        "location": "Bellevue, WA",
+        "website": "auth0.com",
+        "url": "https://auth0.com",
+        "description": "Identity management platform for application builders and developers"
+    },
+    {
+        "letter": "B",
+        "company_name": "Benchling ",
+        "location": "San Francisco, CA",
+        "website": "benchling.com",
+        "url": "https://benchling.com",
+        "description": "SaaS for life sciences R&D"
+    },
+    {
+        "letter": "B",
+        "company_name": "Better",
+        "location": "New York, NY",
+        "website": "better.com ",
+        "url": "https://better.com ",
+        "description": "Technology to make the process of financing a home more efficient"
+    },
+    {
+        "letter": "B",
+        "company_name": "BetterCloud",
+        "location": "New York, NY",
+        "website": "bettercloud.com",
+        "url": "https://bettercloud.com",
+        "description": "SaaS operations management platform"
+    },
+    {
+        "letter": "B",
+        "company_name": "Blend ",
+        "location": "San Francisco, CA",
+        "website": "blend.com",
+        "url": "https://blend.com",
+        "description": "White-label consumer lending ecosystem"
+    },
+    {
+        "letter": "B",
+        "company_name": "BlockFi",
+        "location": "Jersey City, NJ",
+        "website": "blockfi.com",
+        "url": "https://blockfi.com",
+        "description": "Secured non-bank lender that offers crypto-asset-backed USD loans to crypto-asset owners"
+    },
+    {
+        "letter": "B",
+        "company_name": "Bolt",
+        "location": "San Francisco, CA",
+        "website": "bolt.com",
+        "url": "https://bolt.com",
+        "description": "Online checkout experience platform"
+    },
+    {
+        "letter": "B",
+        "company_name": "Braze",
+        "location": "New York, NY",
+        "website": "braze.com",
+        "url": "https://braze.com",
+        "description": "Customer engagement platform"
+    },
+    {
+        "letter": "B",
+        "company_name": "Brex",
+        "location": "San Francisco, CA",
+        "website": "brex.com",
+        "url": "https://brex.com",
+        "description": "Credit cards & cash management accounts for startups"
+    },
+    {
+        "letter": "B",
+        "company_name": "Bright Health",
+        "location": "Minneapolis, MN",
+        "website": "brighthealthplan.com",
+        "url": "https://brighthealthplan.com",
+        "description": "Health insurance service platform"
+    },
+    {
+        "letter": "B",
+        "company_name": "Built",
+        "location": "Nashville, TN",
+        "website": "getbuilt.com",
+        "url": "https://getbuilt.com",
+        "description": "Construction vertical SaaS "
+    },
+    {
+        "letter": "C",
+        "company_name": "Calendly",
+        "location": "Atlanta, GA",
+        "website": "calendly.com",
+        "url": "https://calendly.com",
+        "description": "Scheduling software"
+    },
+    {
+        "letter": "C",
+        "company_name": "Calm",
+        "location": "San Francisco, CA",
+        "website": "calm.com",
+        "url": "https://calm.com",
+        "description": "Application designed to help its users meditate and relax"
+    },
+    {
+        "letter": "C",
+        "company_name": "Cameo",
+        "location": "Chicago, IL",
+        "website": "cameo.com",
+        "url": "https://cameo.com",
+        "description": "Connects fans directly with their favorite pop culture personalities"
+    },
+    {
+        "letter": "C",
+        "company_name": "CampusLogic",
+        "location": "Chandler, AZ",
+        "website": "campuslogic.com",
+        "url": "https://campuslogic.com",
+        "description": "Tools used by colleges to help students manage scholarships & loans"
+    },
+    {
+        "letter": "C",
+        "company_name": "Capsule",
+        "location": "New York, NY",
+        "website": "capsule.com",
+        "url": "https://capsule.com",
+        "description": "Online pharmacy"
+    },
+    {
+        "letter": "C",
+        "company_name": "Carbon",
+        "location": "Redwood City, CA",
+        "website": "carbon3d.com",
+        "url": "https://carbon3d.com",
+        "description": "3D manufacturing"
+    },
+    {
+        "letter": "C",
+        "company_name": "Carta",
+        "location": "Palo Alto, CA",
+        "website": "carta.com",
+        "url": "https://carta.com",
+        "description": "Cap table management & compliance"
+    },
+    {
+        "letter": "C",
+        "company_name": "Cedar",
+        "location": "New York, NY",
+        "website": "cedar.com",
+        "url": "https://cedar.com",
+        "description": "Patient payments platform"
+    },
+    {
+        "letter": "C",
+        "company_name": "Cerebras",
+        "location": "Los Altos, CA",
+        "website": "cerebras.net",
+        "url": "https://cerebras.net",
+        "description": "AI chips"
+    },
+    {
+        "letter": "C",
+        "company_name": "Chainalysis ",
+        "location": "New York, NY",
+        "website": "chainalysis.com",
+        "url": "https://chainalysis.com",
+        "description": "System for blockchain analysis"
+    },
+    {
+        "letter": "C",
+        "company_name": "Chartboost",
+        "location": "San Francisco, CA",
+        "website": "chartboost.com ",
+        "url": "https://chartboost.com ",
+        "description": "In-app monetization and programmatic advertising platform "
+    },
+    {
+        "letter": "C",
+        "company_name": "ChowNow",
+        "location": "Los Angeles, CA",
+        "website": "chownow.com",
+        "url": "https://chownow.com",
+        "description": "Online ordering system"
+    },
+    {
+        "letter": "C",
+        "company_name": "Coalition",
+        "location": "San Francisco, CA",
+        "website": "coalitioninc.com",
+        "url": "https://coalitioninc.com",
+        "description": "Cybersecurity tools"
+    },
+    {
+        "letter": "C",
+        "company_name": "Cockroach Labs",
+        "location": "New York, NY",
+        "website": "cockroachlabs.com/",
+        "url": "https://cockroachlabs.com/",
+        "description": "Distributed SQL database"
+    },
+    {
+        "letter": "C",
+        "company_name": "Code42 ",
+        "location": "Minneapolis, MN",
+        "website": "code42.com",
+        "url": "https://code42.com",
+        "description": "Data loss protection, visibility, and recovery solutions "
+    },
+    {
+        "letter": "C",
+        "company_name": "CommonBond",
+        "location": "New York, NY",
+        "website": "commonbond.co",
+        "url": "https://commonbond.co",
+        "description": "Online education lending platform"
+    },
+    {
+        "letter": "C",
+        "company_name": "Confluent",
+        "location": "Mountain View, CA",
+        "website": "confluent.io",
+        "url": "https://confluent.io",
+        "description": "Data streaming platform"
+    },
+    {
+        "letter": "C",
+        "company_name": "Convoy",
+        "location": "Seattle, WA",
+        "website": "convoy.com",
+        "url": "https://convoy.com",
+        "description": "Connects shippers with nearby carriers"
+    },
+    {
+        "letter": "C",
+        "company_name": "Coursera",
+        "location": "Mountain View, CA",
+        "website": "coursera.org ",
+        "url": "https://coursera.org",
+        "description": "Online education platform"
+    },
+    {
+        "letter": "C",
+        "company_name": "Current",
+        "location": "New York, NY",
+        "website": "current.com",
+        "url": "https://current.com",
+        "description": "Challenger bank"
+    },
+    {
+        "letter": "C",
+        "company_name": "Cybereason",
+        "location": "Boston, MA",
+        "website": "cybereason.com",
+        "url": "https://cybereason.com",
+        "description": "Endpoint detection and response platform"
+    },
+    {
+        "letter": "D",
+        "company_name": "Dataiku",
+        "location": "New York, NY",
+        "website": "dataiku.com",
+        "url": "https://dataiku.com",
+        "description": "Enterprise artificial intelligence and machine-learning platform"
+    },
+    {
+        "letter": "D",
+        "company_name": "Dave",
+        "location": "Los Angeles, CA",
+        "website": "dave.com",
+        "url": "https://dave.com",
+        "description": "Challenger bank"
+    },
+    {
+        "letter": "D",
+        "company_name": "Deliverr",
+        "location": "San Francisco, CA",
+        "website": "deliverr.com",
+        "url": "https://deliverr.com",
+        "description": "Delivery platform"
+    },
+    {
+        "letter": "D",
+        "company_name": "Digit",
+        "location": "San Francisco, CA",
+        "website": "digit.co",
+        "url": "https://digit.co",
+        "description": "Financial health app"
+    },
+    {
+        "letter": "D",
+        "company_name": "Discord",
+        "location": "San Francisco, CA",
+        "website": "discordapp.com",
+        "url": "https://discordapp.com",
+        "description": "Voice, video, and text chat app for gamers"
+    },
+    {
+        "letter": "D",
+        "company_name": "Domino",
+        "location": "San Francisco, CA",
+        "website": "dominodatalab.com/",
+        "url": "https://dominodatalab.com/",
+        "description": "Data science collaboration platform"
+    },
+    {
+        "letter": "D",
+        "company_name": "Dremio",
+        "location": "Santa Clara, CA",
+        "website": "dremio.com",
+        "url": "https://dremio.com",
+        "description": "Data lake query engine"
+    },
+    {
+        "letter": "D",
+        "company_name": "DuckDuckGo",
+        "location": "Paoli, PA",
+        "website": "duckduckgo.com",
+        "url": "https://duckduckgo.com",
+        "description": "Secure browser extension & search"
+    },
+    {
+        "letter": "D",
+        "company_name": "Duolingo",
+        "location": "Pittsburgh, PA",
+        "website": "duolingo.com ",
+        "url": "https://duolingo.com",
+        "description": "Digital language learning"
+    },
+    {
+        "letter": "E",
+        "company_name": "Earnin",
+        "location": "Palo Alto, CA",
+        "website": "earnin.com ",
+        "url": "https://earnin.com",
+        "description": "Access to your pay whenever you need it"
+    },
+    {
+        "letter": "E",
+        "company_name": "Eightfold",
+        "location": "Mountain View, CA",
+        "website": "eightfold.ai",
+        "url": "https://eightfold.ai",
+        "description": "AI-powered talent intelligence platform"
+    },
+    {
+        "letter": "E",
+        "company_name": "Envoy",
+        "location": "San Francisco, CA",
+        "website": "envoy.com",
+        "url": "https://envoy.com",
+        "description": "Visitor management"
+    },
+    {
+        "letter": "E",
+        "company_name": "Everlaw",
+        "location": "Oakland, CA",
+        "website": "everlaw.com",
+        "url": "https://everlaw.com",
+        "description": "Platform for document analysis to law firms, government, and corporations"
+    },
+    {
+        "letter": "F",
+        "company_name": "Faire",
+        "location": "San Francisco, CA",
+        "website": "faire.com ",
+        "url": "https://faire.com",
+        "description": "Curated marketplace for local retailers to discover the best brands to stock their stores"
+    },
+    {
+        "letter": "F",
+        "company_name": "Farmers Business Network",
+        "location": "San Carlos, CA",
+        "website": "fbn.com",
+        "url": "https://fbn.com",
+        "description": "Network that connects farmers to share knowledge"
+    },
+    {
+        "letter": "F",
+        "company_name": "Fictiv",
+        "location": "San Francisco, CA",
+        "website": "fictiv.com ",
+        "url": "https://fictiv.com",
+        "description": "Platform that enables users to design, develop, and deliver fabricated parts"
+    },
+    {
+        "letter": "F",
+        "company_name": "Figma",
+        "location": "San Francisco, CA",
+        "website": "figma.com",
+        "url": "https://figma.com",
+        "description": "Multi-user design tools"
+    },
+    {
+        "letter": "F",
+        "company_name": "Figure",
+        "location": "San Francisco, CA",
+        "website": "figure.com",
+        "url": "https://figure.com",
+        "description": "Home equity loans"
+    },
+    {
+        "letter": "F",
+        "company_name": "FinancialForce",
+        "location": "San Francisco, CA",
+        "website": "financialforce.com",
+        "url": "https://financialforce.com",
+        "description": "Back-office applications for Salesforce CRM"
+    },
+    {
+        "letter": "F",
+        "company_name": "Fivetran",
+        "location": "Oakland, CA",
+        "website": "fivetran.com",
+        "url": "https://fivetran.com",
+        "description": "Secure data pipeline for analytics"
+    },
+    {
+        "letter": "F",
+        "company_name": "FLEXE",
+        "location": "Seattle, WA",
+        "website": "flexe.com ",
+        "url": "https://flexe.com",
+        "description": "On-demand warehousing"
+    },
+    {
+        "letter": "F",
+        "company_name": "Flywire",
+        "location": "Boston, MA",
+        "website": "flywire.com ",
+        "url": "https://flywire.com",
+        "description": "Service for complex payment problems"
+    },
+    {
+        "letter": "F",
+        "company_name": "ForgeRock",
+        "location": "San Francisco, CA",
+        "website": "forgerock.com",
+        "url": "https://forgerock.com",
+        "description": "Provider of digital identity solutions"
+    },
+    {
+        "letter": "F",
+        "company_name": "Forter",
+        "location": "New York, NY",
+        "website": "forter.com ",
+        "url": "https://forter.com",
+        "description": "Fraud solution that helps retailers grow sales, lower costs, and improve customer experience"
+    },
+    {
+        "letter": "F",
+        "company_name": "Freshworks ",
+        "location": "San Mateo, CA",
+        "website": "freshworks.com ",
+        "url": "https://freshworks.com",
+        "description": "Cloud-based customer support software "
+    },
+    {
+        "letter": "F",
+        "company_name": "Front",
+        "location": "San Francisco, CA",
+        "website": "frontapp.com ",
+        "url": "https://frontapp.com",
+        "description": "Customer communication hub"
+    },
+    {
+        "letter": "F",
+        "company_name": "Fullstory",
+        "location": "Atlanta, GA",
+        "website": "fullstory.com ",
+        "url": "https://fullstory.com",
+        "description": "Customer experience data app"
+    },
+    {
+        "letter": "F",
+        "company_name": "Fundbox",
+        "location": "San Francisco, CA",
+        "website": "fundbox.com ",
+        "url": "https://fundbox.com",
+        "description": "Financial factoring services"
+    },
+    {
+        "letter": "F",
+        "company_name": "Fuze",
+        "location": "Boston, MA",
+        "website": "fuze.com ",
+        "url": "https://fuze.com",
+        "description": "Unified communications services"
+    },
+    {
+        "letter": "G",
+        "company_name": "G2",
+        "location": "Chicago, IL",
+        "website": "g2.com ",
+        "url": "https://g2.com",
+        "description": "Collects and publishes business products reviews"
+    },
+    {
+        "letter": "G",
+        "company_name": "GitLab",
+        "location": "San Francisco, CA",
+        "website": "about.gitlab.com",
+        "url": "https://about.gitlab.com",
+        "description": "DevOps platform"
+    },
+    {
+        "letter": "G",
+        "company_name": "Glossier",
+        "location": "New York, NY",
+        "website": "glossier.com ",
+        "url": "https://glossier.com",
+        "description": "Direct-to-consumer beauty products"
+    },
+    {
+        "letter": "G",
+        "company_name": "GOAT ",
+        "location": "Culver City, CA",
+        "website": "goat.com",
+        "url": "https://goat.com",
+        "description": "Marketplace for authentic sneakers, apparel, and accessories"
+    },
+    {
+        "letter": "G",
+        "company_name": "Gong",
+        "location": "San Francisco, CA",
+        "website": "gong.io ",
+        "url": "https://gong.io",
+        "description": "Sales call analysis tools"
+    },
+    {
+        "letter": "G",
+        "company_name": "Grafana",
+        "location": "New York, NY",
+        "website": "grafana.com",
+        "url": "https://grafana.com",
+        "description": "Open-source analytics and monitoring software"
+    },
+    {
+        "letter": "G",
+        "company_name": "Grammarly",
+        "location": "San Francisco, CA",
+        "website": "grammarly.com ",
+        "url": "https://grammarly.com",
+        "description": "AI-powered products that help people communicate more effectively"
+    },
+    {
+        "letter": "G",
+        "company_name": "Greenhouse",
+        "location": "New York, NY ",
+        "website": "greenhouse.io ",
+        "url": "https://greenhouse.io",
+        "description": "Recruiting software"
+    },
+    {
+        "letter": "G",
+        "company_name": "Greenlight",
+        "location": "Atlanta, GA",
+        "website": "greenlightcard.com",
+        "url": "https://greenlightcard.com",
+        "description": "Smart debit card used to help parents monitor their child's spending habits"
+    },
+    {
+        "letter": "G",
+        "company_name": "Guild Education",
+        "location": "Denver, CO",
+        "website": "guildeducation.com",
+        "url": "https://guildeducation.com",
+        "description": "Education platform for working adults"
+    },
+    {
+        "letter": "G",
+        "company_name": "Gusto",
+        "location": "San Francisco, CA",
+        "website": "gusto.com ",
+        "url": "https://gusto.com",
+        "description": "Small company payroll & benefits"
+    },
+    {
+        "letter": "H",
+        "company_name": "Handshake",
+        "location": "San Francisco, CA",
+        "website": "joinhandshake.com",
+        "url": "https://joinhandshake.com",
+        "description": "Recruiting marketplace for college students"
+    },
+    {
+        "letter": "H",
+        "company_name": "Harness",
+        "location": "San Francisco, CA",
+        "website": "harness.io",
+        "url": "https://harness.io",
+        "description": "DevOps platform"
+    },
+    {
+        "letter": "H",
+        "company_name": "HashiCorp",
+        "location": "San Francisco, CA",
+        "website": "hashicorp.com ",
+        "url": "https://hashicorp.com",
+        "description": "Cloud infrastructure provisioning and security"
+    },
+    {
+        "letter": "H",
+        "company_name": "Health IQ",
+        "location": "Mountain View, CA",
+        "website": "healthiq.com ",
+        "url": "https://healthiq.com",
+        "description": "Insurance for the health-conscious"
+    },
+    {
+        "letter": "H",
+        "company_name": "Highspot",
+        "location": "Seattle, WA",
+        "website": "highspot.com ",
+        "url": "https://highspot.com",
+        "description": "Content management for sales"
+    },
+    {
+        "letter": "H",
+        "company_name": "Hippo Insurance",
+        "location": "Palo Alto, CA",
+        "website": "hippo.com ",
+        "url": "https://hippo.com",
+        "description": "Home insurance"
+    },
+    {
+        "letter": "H",
+        "company_name": "HireVue",
+        "location": "South Jordan, UT",
+        "website": "hirevue.com/",
+        "url": "https://hirevue.com/",
+        "description": "Intelligent hiring platform"
+    },
+    {
+        "letter": "H",
+        "company_name": "Hyperscience",
+        "location": "New York, NY",
+        "website": "hyperscience.com ",
+        "url": "https://hyperscience.com",
+        "description": "Software-defined, input-to-outcome automation"
+    },
+    {
+        "letter": "I",
+        "company_name": "Ibotta",
+        "location": "Denver, CO",
+        "website": "ibotta.com ",
+        "url": "https://ibotta.com",
+        "description": "Tools to encourage consumers to learn about their favorite brands"
+    },
+    {
+        "letter": "I",
+        "company_name": "Imply",
+        "location": "Burlingame, CA",
+        "website": "imply.io ",
+        "url": "https://imply.io",
+        "description": "Real-time analytics solution based on Apache Druid"
+    },
+    {
+        "letter": "I",
+        "company_name": "inDriver",
+        "location": "Mountain View, CA",
+        "website": "indriver.com ",
+        "url": "https://indriver.com",
+        "description": "Ride-hailing service"
+    },
+    {
+        "letter": "I",
+        "company_name": "Innovium",
+        "location": "San Jose, CA",
+        "website": "innovium.com ",
+        "url": "https://innovium.com",
+        "description": "Networking solutions for data centers"
+    },
+    {
+        "letter": "I",
+        "company_name": "InVision",
+        "location": "New York, NY ",
+        "website": "invisionapp.com ",
+        "url": "https://invisionapp.com",
+        "description": "Design collaboration platform"
+    },
+    {
+        "letter": "I",
+        "company_name": "Ionic Security ",
+        "location": "Atlanta, GA",
+        "website": "ionicsecurity.com",
+        "url": "https://ionicsecurity.com",
+        "description": "Data security platform"
+    },
+    {
+        "letter": "I",
+        "company_name": "ipsy",
+        "location": "San Mateo, CA",
+        "website": "ipsy.com ",
+        "url": "https://ipsy.com",
+        "description": "Beauty products sampling service"
+    },
+    {
+        "letter": "I",
+        "company_name": "Iterable",
+        "location": "San Francisco, CA",
+        "website": "iterable.com",
+        "url": "https://iterable.com",
+        "description": "Email management platform"
+    },
+    {
+        "letter": "J",
+        "company_name": "Juniper Square",
+        "location": "San Francisco, CA",
+        "website": "junipersquare.com",
+        "url": "https://junipersquare.com",
+        "description": "Private equity fundraising platform"
+    },
+    {
+        "letter": "J",
+        "company_name": "Justworks",
+        "location": "New York, NY",
+        "website": "justworks.com",
+        "url": "https://justworks.com",
+        "description": "Payroll, benefits & compliance for SMBs"
+    },
+    {
+        "letter": "K",
+        "company_name": "Komodo Health",
+        "location": "San Francisco, CA",
+        "website": "komodohealth.com",
+        "url": "https://komodohealth.com",
+        "description": "Healthcare & life sciences data platform"
+    },
+    {
+        "letter": "K",
+        "company_name": "Kong",
+        "location": "San Francisco",
+        "website": "konghq.com",
+        "url": "https://konghq.com",
+        "description": "Open-source microservices management platform"
+    },
+    {
+        "letter": "L",
+        "company_name": "LaunchDarkly        ",
+        "location": "Oakland, CA",
+        "website": "launchdarkly.com",
+        "url": "https://launchdarkly.com",
+        "description": "Feature management platform"
+    },
+    {
+        "letter": "L",
+        "company_name": "LendingHome",
+        "location": "San Francisco, CA",
+        "website": "lendinghome.com ",
+        "url": "https://lendinghome.com",
+        "description": "Mortgage lender"
+    },
+    {
+        "letter": "L",
+        "company_name": "Lyra Health",
+        "location": "Burlingame, CA ",
+        "website": "lyrahealth.com",
+        "url": "https://lyrahealth.com",
+        "description": "Digital mental health platform"
+    },
+    {
+        "letter": "M",
+        "company_name": "MarkForged",
+        "location": "Watertown, MA",
+        "website": "markforged.com",
+        "url": "https://markforged.com",
+        "description": "3D printing platform"
+    },
+    {
+        "letter": "M",
+        "company_name": "Mattermost",
+        "location": "Palo Alto, CA",
+        "website": "mattermost.com",
+        "url": "https://mattermost.com",
+        "description": "Enterprise-grade messaging solutions"
+    },
+    {
+        "letter": "M",
+        "company_name": "Minted",
+        "location": "San Francisco, CA",
+        "website": "minted.com",
+        "url": "https://minted.com",
+        "description": "Graphic design crowdsourcing"
+    },
+    {
+        "letter": "M",
+        "company_name": "Miro",
+        "location": "San Francisco, CA",
+        "website": "miro.com",
+        "url": "https://miro.com",
+        "description": "Online collaborative whiteboard platform"
+    },
+    {
+        "letter": "M",
+        "company_name": "Modsy",
+        "location": "San Francisco, CA",
+        "website": "modsy.com",
+        "url": "https://modsy.com",
+        "description": "Home design guidance and plans"
+    },
+    {
+        "letter": "M",
+        "company_name": "Moveworks",
+        "location": "Mountain View, CA",
+        "website": "moveworks.com ",
+        "url": "https://moveworks.com",
+        "description": "AI to help resolve help desk tickets"
+    },
+    {
+        "letter": "M",
+        "company_name": "mParticle",
+        "location": "New York, NY",
+        "website": "mparticle.com",
+        "url": "https://mparticle.com",
+        "description": "Customer data platform for multi channel consumer brands"
+    },
+    {
+        "letter": "N",
+        "company_name": "N3twork",
+        "location": "San Francisco, CA",
+        "website": "n3twork.com",
+        "url": "https://n3twork.com",
+        "description": "Mobile games creator and publisher"
+    },
+    {
+        "letter": "N",
+        "company_name": "Narvar",
+        "location": "San Mateo, CA",
+        "website": "narvar.com ",
+        "url": "https://narvar.com",
+        "description": "Customer experience platform for retailers"
+    },
+    {
+        "letter": "N",
+        "company_name": "Newsela",
+        "location": "New York, NY",
+        "website": "newsela.com",
+        "url": "https://newsela.com",
+        "description": "Education software"
+    },
+    {
+        "letter": "N",
+        "company_name": "Next Insurance",
+        "location": "Palo Alto, CA",
+        "website": "nextinsurance.com",
+        "url": "https://nextinsurance.com",
+        "description": "Insurance for entrepreneurs/small businesses"
+    },
+    {
+        "letter": "N",
+        "company_name": "Nextdoor",
+        "location": "San Francisco, CA",
+        "website": "nextdoor.com",
+        "url": "https://nextdoor.com",
+        "description": "Neighborhood-based social network"
+    },
+    {
+        "letter": "N",
+        "company_name": "nference",
+        "location": "Cambridge, MA",
+        "website": "nference.ai",
+        "url": "https://nference.ai",
+        "description": "Knowledge synthesis from biomedical databases"
+    },
+    {
+        "letter": "N",
+        "company_name": "Notion",
+        "location": "San Francisco, CA",
+        "website": "notion.so",
+        "url": "https://notion.so",
+        "description": "Document collaboration"
+    },
+    {
+        "letter": "O",
+        "company_name": "OfferUp",
+        "location": "Bellevue, WA",
+        "website": "offerup.com",
+        "url": "https://offerup.com",
+        "description": "C2C commerce platform"
+    },
+    {
+        "letter": "O",
+        "company_name": "Olive",
+        "location": "Columbus, OH",
+        "website": "oliveai.com",
+        "url": "https://oliveai.com",
+        "description": "Intelligent healthcare RPA"
+    },
+    {
+        "letter": "O",
+        "company_name": "OneSource Virtual",
+        "location": "Dallas, TX",
+        "website": "onesourcevirtual.com",
+        "url": "https://onesourcevirtual.com",
+        "description": "Workday services"
+    },
+    {
+        "letter": "O",
+        "company_name": "OneTrust",
+        "location": "Atlanta, GA",
+        "website": "onetrust.com ",
+        "url": "https://onetrust.com",
+        "description": "Privacy management"
+    },
+    {
+        "letter": "O",
+        "company_name": "Outreach",
+        "location": "Seattle, WA",
+        "website": "outreach.io ",
+        "url": "https://outreach.io",
+        "description": "Sales engagement platform"
+    },
+    {
+        "letter": "O",
+        "company_name": "Owl Labs",
+        "location": "Somerville, MA",
+        "website": "owllabs.com ",
+        "url": "https://owllabs.com",
+        "description": "Hardware and software systems for video conferencing"
+    },
+    {
+        "letter": "P",
+        "company_name": "Pendo",
+        "location": "Raleigh, NC",
+        "website": "pendo.io ",
+        "url": "https://pendo.io",
+        "description": "Platform that helps teams deliver software users love"
+    },
+    {
+        "letter": "P",
+        "company_name": "Perceptyx",
+        "location": "Temecula, CA",
+        "website": "perceptyx.com",
+        "url": "https://perceptyx.com",
+        "description": "Customer feedback tools"
+    },
+    {
+        "letter": "P",
+        "company_name": "Podium",
+        "location": "Lehi, UT",
+        "website": "podium.com ",
+        "url": "https://podium.com",
+        "description": "Customer communication platform"
+    },
+    {
+        "letter": "P",
+        "company_name": "Pond5",
+        "location": "New York, NY",
+        "website": "pond5.com ",
+        "url": "https://pond5.com",
+        "description": "Hub to buy and sell media"
+    },
+    {
+        "letter": "P",
+        "company_name": "Postman",
+        "location": "San Francisco, CA",
+        "website": "postman.com ",
+        "url": "https://postman.com",
+        "description": "Collaboration platform for API development"
+    },
+    {
+        "letter": "P",
+        "company_name": "Prodege",
+        "location": "El Segundo, CA",
+        "website": "prodege.com ",
+        "url": "https://prodege.com",
+        "description": "Rewards programs"
+    },
+    {
+        "letter": "Q",
+        "company_name": "Qualia",
+        "location": "San Francisco, CA",
+        "website": "qualia.com ",
+        "url": "https://qualia.com",
+        "description": "Digital real estate closing platform"
+    },
+    {
+        "letter": "Q",
+        "company_name": "Qumulo",
+        "location": "Seattle, WA",
+        "website": "qumulo.com",
+        "url": "https://qumulo.com",
+        "description": "Storage"
+    },
+    {
+        "letter": "Q",
+        "company_name": "Quora",
+        "location": "Mountain View, CA",
+        "website": "quora.com",
+        "url": "https://quora.com",
+        "description": "Q&A platform"
+    },
+    {
+        "letter": "R",
+        "company_name": "Redis Labs",
+        "location": "Mountain View, CA",
+        "website": "redislabs.com",
+        "url": "https://redislabs.com",
+        "description": "In-memory database platform for applications"
+    },
+    {
+        "letter": "R",
+        "company_name": "Rent the Runway",
+        "location": "New York, NY",
+        "website": "renttherunway.com",
+        "url": "https://renttherunway.com",
+        "description": "Designer dress and accessory rentals"
+    },
+    {
+        "letter": "R",
+        "company_name": "ReTool",
+        "location": "San Francisco, CA",
+        "website": "retool.com",
+        "url": "https://retool.com",
+        "description": "Fast way of building internal applications"
+    },
+    {
+        "letter": "S",
+        "company_name": "Salsify",
+        "location": "Boston, MA",
+        "website": "salsify.com",
+        "url": "https://salsify.com",
+        "description": "Product experience management"
+    },
+    {
+        "letter": "S",
+        "company_name": "Scale AI",
+        "location": "San Francisco, CA",
+        "website": "scale.com",
+        "url": "https://scale.com",
+        "description": "Annotation of training data for AI"
+    },
+    {
+        "letter": "S",
+        "company_name": "SentinelOne",
+        "location": "Mountain View, CA",
+        "website": "sentinelone.com",
+        "url": "https://sentinelone.com",
+        "description": "Autonomous endpoint protection"
+    },
+    {
+        "letter": "S",
+        "company_name": "Sentry",
+        "location": "San Francisco, CA",
+        "website": "sentry.io ",
+        "url": "https://sentry.io",
+        "description": "Open-source platform for workflow productivity"
+    },
+    {
+        "letter": "S",
+        "company_name": "ServiceChannel ",
+        "location": "Pleasanton, CA",
+        "website": "servicechannel.com",
+        "url": "https://servicechannel.com",
+        "description": "Platform to procure, manage and pay for facility maintenance services"
+    },
+    {
+        "letter": "S",
+        "company_name": "ServiceTitan",
+        "location": "Glendale, CA",
+        "website": "servicetitan.com",
+        "url": "https://servicetitan.com",
+        "description": "Software for the home service industries"
+    },
+    {
+        "letter": "S",
+        "company_name": "Shippo",
+        "location": "San Francisco, CA",
+        "website": "goshippo.com",
+        "url": "https://goshippo.com",
+        "description": "Shipping API provider"
+    },
+    {
+        "letter": "S",
+        "company_name": "Side",
+        "location": "San Francisco, CA",
+        "website": "sideinc.com",
+        "url": "https://sideinc.com",
+        "description": "Real estate brokerage services"
+    },
+    {
+        "letter": "S",
+        "company_name": "Skydio",
+        "location": "Redwood City, CA",
+        "website": "skydio.com ",
+        "url": "https://skydio.com",
+        "description": "Drones"
+    },
+    {
+        "letter": "S",
+        "company_name": "Sonder",
+        "location": "San Francisco, CA",
+        "website": "sonder.com ",
+        "url": "https://sonder.com",
+        "description": "A new way to stay in your favorite neighborhoods around the world"
+    },
+    {
+        "letter": "S",
+        "company_name": "SpotOn",
+        "location": "San Francisco, CA",
+        "website": "spoton.com",
+        "url": "https://spoton.com",
+        "description": "Software and payment processing for merchants"
+    },
+    {
+        "letter": "S",
+        "company_name": "Sprinklr",
+        "location": "New York, NY",
+        "website": "sprinklr.com ",
+        "url": "https://sprinklr.com",
+        "description": "Customer experience management software"
+    },
+    {
+        "letter": "S",
+        "company_name": "Stash",
+        "location": "New York, NY",
+        "website": "stash.com ",
+        "url": "https://stash.com",
+        "description": "Digital investing and banking"
+    },
+    {
+        "letter": "S",
+        "company_name": "Stedi",
+        "location": "Denver, CO",
+        "website": "stedi.com ",
+        "url": "https://stedi.com",
+        "description": "EDI platform to automate any B2B transaction"
+    },
+    {
+        "letter": "S",
+        "company_name": "Stord",
+        "location": "Atlanta, GA",
+        "website": "stord.com ",
+        "url": "https://stord.com",
+        "description": "Supply chain in the cloud"
+    },
+    {
+        "letter": "S",
+        "company_name": "Strava",
+        "location": "San Francisco, CA",
+        "website": "strava.com ",
+        "url": "https://strava.com",
+        "description": "Global community of athletes"
+    },
+    {
+        "letter": "S",
+        "company_name": "StreamSets",
+        "location": "San Francisco, CA",
+        "website": "streamsets.com ",
+        "url": "https://streamsets.com",
+        "description": "DataOps platform for modern data integration"
+    },
+    {
+        "letter": "S",
+        "company_name": "Synack",
+        "location": "Redwood City, CA",
+        "website": "synack.com ",
+        "url": "https://synack.com",
+        "description": "Scalable continuous testing for enterprise applications and networks"
+    },
+    {
+        "letter": "S",
+        "company_name": "Sysdig",
+        "location": "San Francisco, CA",
+        "website": "sysdig.com",
+        "url": "https://sysdig.com",
+        "description": "DevOps security"
+    },
+    {
+        "letter": "T",
+        "company_name": "Talkdesk",
+        "location": "San Francisco, CA",
+        "website": "talkdesk.com",
+        "url": "https://talkdesk.com",
+        "description": "Contact center software"
+    },
+    {
+        "letter": "T",
+        "company_name": "Tally",
+        "location": "San Francisco, CA",
+        "website": "meettally.com ",
+        "url": "https://meettally.com",
+        "description": "Automated credit card payoff app"
+    },
+    {
+        "letter": "T",
+        "company_name": "Tastemade",
+        "location": "Santa Monica, CA",
+        "website": "tastemade.com",
+        "url": "https://tastemade.com",
+        "description": "Online food-oriented destination"
+    },
+    {
+        "letter": "T",
+        "company_name": "Tastyworks",
+        "location": "Chicago, IL ",
+        "website": "tastyworks.com",
+        "url": "https://tastyworks.com",
+        "description": "Stock trading platform"
+    },
+    {
+        "letter": "T",
+        "company_name": "Tekion",
+        "location": "San Ramon, CA",
+        "website": "tekion.com",
+        "url": "https://tekion.com",
+        "description": "ERP platform for autodealers"
+    },
+    {
+        "letter": "T",
+        "company_name": "The Zebra",
+        "location": "Austin, TX",
+        "website": "thezebra.com ",
+        "url": "https://thezebra.com",
+        "description": "Auto insurance comparison marketplace"
+    },
+    {
+        "letter": "T",
+        "company_name": "ThoughtSpot",
+        "location": "Sunnyvale, CA",
+        "website": "thoughtspot.com ",
+        "url": "https://thoughtspot.com ",
+        "description": "Relational search engine designed for data analytics"
+    },
+    {
+        "letter": "T",
+        "company_name": "Turo",
+        "location": "San Francisco, CA",
+        "website": "turo.com",
+        "url": "https://turo.com",
+        "description": "Car sharing rental marketplace"
+    },
+    {
+        "letter": "U",
+        "company_name": "Udacity",
+        "location": "Mountain View, CA",
+        "website": "udacity.com",
+        "url": "https://udacity.com",
+        "description": "Skills development platform"
+    },
+    {
+        "letter": "U",
+        "company_name": "Ujet",
+        "location": "San Francisco, CA",
+        "website": "ujet.co ",
+        "url": "https://ujet.co",
+        "description": "Cloud contact center solutions"
+    },
+    {
+        "letter": "U",
+        "company_name": "Unqork",
+        "location": "New York, NY",
+        "website": "unqork.com",
+        "url": "https://unqork.com",
+        "description": "No-code enterprise application platform"
+    },
+    {
+        "letter": "U",
+        "company_name": "Upgrade",
+        "location": "San Francisco, CA",
+        "website": "upgrade.com ",
+        "url": "https://upgrade.com",
+        "description": "Consumer credit platform"
+    },
+    {
+        "letter": "V",
+        "company_name": "Varsity Tutors",
+        "location": "St. Louis, MO ",
+        "website": "varsitytutors.com ",
+        "url": "https://varsitytutors.com",
+        "description": "Platform that connects students with personalized instruction"
+    },
+    {
+        "letter": "V",
+        "company_name": "Vectra",
+        "location": "San Jose, CA",
+        "website": "vectra.ai",
+        "url": "https://vectra.ai",
+        "description": "Network threat detection and response"
+    },
+    {
+        "letter": "V",
+        "company_name": "Venafi",
+        "location": "Salt Lake City, UT",
+        "website": "venafi.com ",
+        "url": "https://venafi.com",
+        "description": "Automates security for keys and certificates"
+    },
+    {
+        "letter": "V",
+        "company_name": "Verkada",
+        "location": "San Mateo, CA",
+        "website": "verkada.com ",
+        "url": "https://verkada.com",
+        "description": "Software-enabled enterprise security camera systems"
+    },
+    {
+        "letter": "V",
+        "company_name": "VSCO",
+        "location": "Oakland, CA",
+        "website": "vsco.co ",
+        "url": "https://vsco.co",
+        "description": "Photography apps & tools"
+    },
+    {
+        "letter": "W",
+        "company_name": "Wealthfront",
+        "location": "Palo Alto, CA",
+        "website": "wealthfront.com",
+        "url": "https://wealthfront.com",
+        "description": "Nextgen banking service"
+    },
+    {
+        "letter": "W",
+        "company_name": "Webflow",
+        "location": "San Francisco, CA",
+        "website": "webflow.com ",
+        "url": "https://webflow.com",
+        "description": "Design and hosting platform"
+    },
+    {
+        "letter": "W",
+        "company_name": "Weee!",
+        "location": "Fremont, CA",
+        "website": "sayweee.com ",
+        "url": "https://sayweee.com",
+        "description": "Asian grocery delivery platform"
+    },
+    {
+        "letter": "W",
+        "company_name": "WHOOP",
+        "location": "Boston, MA",
+        "website": "whoop.com ",
+        "url": "https://whoop.com",
+        "description": "Performance optimization system that helps athlete boost performance"
+    },
+    {
+        "letter": "W",
+        "company_name": "WordPress",
+        "location": "San Francisco, CA",
+        "website": "wordpress.com",
+        "url": "https://wordpress.com",
+        "description": "Open-source CMS & blog software"
+    },
+    {
+        "letter": "W",
+        "company_name": "WorkBoard",
+        "location": "Redwood City, CA",
+        "website": "workboard.com",
+        "url": "https://workboard.com ",
+        "description": "OKR software"
+    },
+    {
+        "letter": "W",
+        "company_name": "Workrise",
+        "location": "Austin, TX",
+        "website": "workrise.com",
+        "url": "https://www.workrise.com/",
+        "description": "Marketplace for on-demand services and skilled labor in the energy industry"
+    },
+    {
+        "letter": "X",
+        "company_name": "XANT",
+        "location": "Lehi, UT",
+        "website": "xant.ai ",
+        "url": "https://xant.ai",
+        "description": "Sales acceleration platform "
+    },
+    {
+        "letter": "Y",
+        "company_name": "YapStone",
+        "location": "Walnut Creek, CA",
+        "website": "yapstone.com ",
+        "url": "https://yapstone.com",
+        "description": "Electronic payments for online marketplaces"
+    },
+    {
+        "letter": "Y",
+        "company_name": "Yumi",
+        "location": "Los Angeles, CA",
+        "website": "helloyumi.com",
+        "url": "https://helloyumi.com",
+        "description": "D2C baby food service"
+    },
+    {
+        "letter": "Z",
+        "company_name": "Zapier",
+        "location": "San Francisco, CA",
+        "website": "zapier.com ",
+        "url": "https://zapier.com",
+        "description": "Low-code tools"
+    },
+    {
+        "letter": "Z",
+        "company_name": "Zenoti",
+        "location": "Bellevue, WA",
+        "website": "zenoti.com ",
+        "url": "https://zenoti.com",
+        "description": "Salon & spa software"
+    },
+    {
+        "letter": "Z",
+        "company_name": "Zest AI",
+        "location": "Burbank, CA",
+        "website": "zest.ai ",
+        "url": "https://zest.ai",
+        "description": "Machine learning and AI tools for financial institutions"
+    }
+    ]
+}
